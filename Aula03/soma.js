@@ -24,4 +24,4 @@ export default somar;
 calcular();
 
 
-//teste test teste
+//teste test testetetetes
