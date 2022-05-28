@@ -22,3 +22,6 @@ function somar(valor1,valor2){
 export default somar;
 
 calcular();
+
+
+//teste test teste
